@@ -1,0 +1,7 @@
+{
+  "wake_word": "cooly",
+  "voice_speed": 185,
+  "preferred_search_engine": "google",
+  "location": "New York",
+  "name": "User"
+}
